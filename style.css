@@ -136,6 +136,7 @@ body {
     transition: border 0.3s;
 }
 
+.add__type,
 .add__description,
 .add__value {
     border: 1px solid #e7e7e7;
